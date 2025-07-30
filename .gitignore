@@ -158,13 +158,14 @@ Thumbs.db
 *.pb
 
 # Large data files (uncomment if you want to exclude your image data)
-# deepfake_data/
+#deepfake_data/
 # *.jpg
 # *.jpeg
 # *.png
 # *.gif
 # *.bmp
 # *.tiff
+adversarial_detector_data/
 
 # Logs and temporary files
 *.log
